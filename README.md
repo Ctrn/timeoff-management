@@ -89,7 +89,7 @@ Install TimeOff.Management application within your infrastructure:
 (make sure you have Node.js (>=4.0.0) and SQLite installed)
 
 ```bash
-git clone https://github.com/timeoff-management/application.git timeoff-management
+git clone https://github.com/BZUmaster/timeoff-management.git
 cd timeoff-management
 npm install
 npm start
